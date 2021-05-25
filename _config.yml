@@ -2,7 +2,7 @@
 title:               UCSB Collaboratory
 tagline:             'Build your technology repertoire'
 description:         'A site to explore different technological themes such as twarc.'
-url:                 'https://ucsb-collaboratory.github.io/lanyon'
+url:                 'http://ucsb-collaboratory.github.io/lanyon/'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
